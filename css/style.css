@@ -205,7 +205,7 @@ a {
 }
 
 .filter-item button:hover {
-  background-color: #d7d9f5;
+  background-color: var(--filter-bg-color);
 }
 
 .filter-item button i {
